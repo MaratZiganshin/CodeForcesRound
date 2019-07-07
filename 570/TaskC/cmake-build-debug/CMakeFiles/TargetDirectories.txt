@@ -1,0 +1,3 @@
+C:/GitHub/CodeForcesRound/570/TaskC/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/GitHub/CodeForcesRound/570/TaskC/cmake-build-debug/CMakeFiles/TaskC.dir
+C:/GitHub/CodeForcesRound/570/TaskC/cmake-build-debug/CMakeFiles/edit_cache.dir
