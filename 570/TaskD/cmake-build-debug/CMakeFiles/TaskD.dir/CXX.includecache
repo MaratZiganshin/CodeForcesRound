@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/GitHub/CodeForcesRound/570/TaskD/main.cpp
+iostream
+-
+map
+-
+vector
+-
+algorithm
+-
+functional
+-
+set
+-
+
